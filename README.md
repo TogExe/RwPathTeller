@@ -1,42 +1,51 @@
-# Simple Rain World path teller
-A simple solution for finding the shortest paths possible in rain world. This program could be expanded for modded uses and doesn't have the skill path calculation yet.
+# 🌧️ Simple Rain World Path Teller  
 
-### region abreviations :
-> 
->    'SU':'Outskirts',
->    
->    'HI':'Industrial Complex',
->    
->    'DS':'Drainage System',
->    
->    'CC':'Chemney Canapoy',
->    
->    'GW':'Garbage Waste',
->    
->    'SH':'Shaded Citadel',
->    
->    'VS':'Pipeyard',
->    
->    'SL':'Shoreline',
->    
->    'SI':'Sky Islands',
->    
->    'LF':'Farm Arrays',
->    
->    'UW':'The Exterior',
->    
->    'SS':'Five Peeble',
->    
->    'SB':'Subterain',
->    
->    'OE':'Outer Expanse',
->    
->    'MS':'Submerged Structure'
-
-## Dependencies
-In this program I used the language [python](https://python.org) as well as the library [heapq](https://docs.python.org/3/library/heapq.html).
+A simple program for finding the shortest paths possible in **Rain World**. This project is designed to be modular and expandable, potentially supporting mods and advanced features in the future. Note that skill path calculations are not yet implemented.  
 
 ---
-Anyways i hope you enjoy and have a great day :)
 
-*I would enjoy to see this expand into an app giving more players access to this project. And transforming this into a tool to get some pretty accurate info and calculations about the game.*
+## 🗺️ Region Abbreviations  
+For convenience, here are the shortened names for the regions:  
+<details>
+  <summary>Shortened Names</summary>
+
+  - **SU**: Outskirts  
+  - **HI**: Industrial Complex  
+  - **DS**: Drainage System  
+  - **CC**: Chimney Canopy  
+  - **GW**: Garbage Wastes  
+  - **SH**: Shaded Citadel  
+  - **VS**: Pipeyard  
+  - **SL**: Shoreline  
+  - **SI**: Sky Islands  
+  - **LF**: Farm Arrays  
+  - **UW**: The Exterior  
+  - **SS**: Five Pebbles  
+  - **SB**: Subterranean  
+  - **OE**: Outer Expanse  
+  - **MS**: Submerged Superstructure  
+
+</details>  
+
+---
+
+## 🧭 Dependencies  
+
+This program is written in [Python](https://python.org) and uses the following library:  
+
+- [heapq](https://docs.python.org/3/library/heapq.html): A Python library for implementing heaps, useful for efficient priority queues in pathfinding algorithms.  
+
+---
+
+## 🌟 Future Expansion  
+
+We hope this project evolves into a robust tool for **Rain World** players! Possible expansions include:  
+- An app with a graphical interface to make it more accessible.  
+- Advanced calculations for more accurate and detailed pathfinding.  
+- Integration with modded content for a broader reach.  
+
+---
+
+Enjoy using the program, and have a great day! 😊  
+Feel free to share your feedback, suggestions, or contributions. Together, we can make this a valuable resource for the community!  
+
