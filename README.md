@@ -38,3 +38,5 @@ In this program I used the language [python](https://python.org) as well as the 
 
 ---
 Anyways i hope you enjoy and have a great day :)
+
+*I would enjoy to see this expand into an app giving more players access to this project. And transforming this into a tool to get some pretty accurate info and calculations about the game.*
